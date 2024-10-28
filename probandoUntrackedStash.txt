@@ -1,0 +1,1 @@
+probando agregar al stash los archivos nuevos - es decir los que no se han agregado - los que no se les ha hecho git add
